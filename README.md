@@ -13,6 +13,7 @@
 
   <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-</div>
-
+<img src="./icons/Preview.png" /> <HR>
 <img src="./icons/Preview.png" />
+
+</div>
