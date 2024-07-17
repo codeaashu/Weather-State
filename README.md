@@ -15,8 +15,7 @@
 
 <img src="./icons/Preview.png" /> <hr>
 
-  <img height="265em" align="left" src="./icons/pink result.png"/>
-  <img height="265em" align="right" src="./icons/black result.png"/>
+<img src="./icons/black result.png"/>
 
 <img src="./icons/theme.png" />
 
