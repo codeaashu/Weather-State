@@ -16,4 +16,6 @@
 <img src="./icons/Preview.png" />
 <img src="./icons/theme.png" />
 
+`Don't forget to leave a star ⭐`
+
 </div>
