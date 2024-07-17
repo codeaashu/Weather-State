@@ -17,7 +17,7 @@
 
 <img src="./icons/black result.png"/>
 
-<img src="./icons/theme.png" />
+<img src="./icons/theme.png" /> <hr>
 
 `Don't forget to leave a star ⭐`
 
