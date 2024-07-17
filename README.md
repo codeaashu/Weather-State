@@ -6,7 +6,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu) <hr>
   
   <img src="./icons/favicon.svg" />
-
   <h2 align="center">Weather State</h2>
 
  `Weather Web App to get the current weather state using the openweathermap API 🌐`
