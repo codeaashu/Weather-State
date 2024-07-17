@@ -19,3 +19,8 @@
 `Don't forget to leave a star ⭐`
 
 </div>
+
+<p align="left">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdellatif-laghjaj&layout=compact&langs_count=8&theme=algolia"/>
+</a>
