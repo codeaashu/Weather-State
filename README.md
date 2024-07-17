@@ -21,6 +21,6 @@
 </div>
 
 <p align="left">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdellatif-laghjaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdellatif-laghjaj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="left" src="./icons/pink result"/>
+  <img height="180em" align="right" src="./icons/black result"/>
 </a>
