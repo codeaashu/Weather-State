@@ -21,6 +21,6 @@
 </div>
 
 <p align="left">
-  <img height="180em" align="left" src="./icons/pink result"/>
-  <img height="180em" align="right" src="./icons/black result"/>
+  <img height="180em" align="left" src="./icons/pink result.png"/>
+  <img height="180em" align="right" src="./icons/black result.png"/>
 </a>
