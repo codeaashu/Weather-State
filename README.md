@@ -7,7 +7,7 @@
 
   <br />
   
-  <img src="./icons/favicon.svg" />
+  <img src="./icons/readme icon.png" />
 
   <h2 align="center">GameX - Gaming website</h2>
 
