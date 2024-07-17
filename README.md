@@ -14,14 +14,14 @@
   <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 <img src="./icons/Preview.png" />
+
+  <img height="265em" align="left" src="./icons/pink result.png"/>
+  <img height="265em" align="right" src="./icons/black result.png"/>
+
 <img src="./icons/theme.png" />
 
 `Don't forget to leave a star ⭐`
 
 </div>
-
-
-  <img height="265em" align="left" src="./icons/pink result.png"/>
-  <img height="265em" align="right" src="./icons/black result.png"/>
 
 
