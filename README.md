@@ -9,11 +9,10 @@
   
   <img src="./icons/favicon.svg" />
 
-  <h2 align="center">GameX - Gaming website</h2>
+  <h2 align="center">Weather State</h2>
 
-  GameX is a fully responsive eSports gaming website that organize gaming tournaments, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+ `Weather web app to get the current weather state using the openweathermap API 🌐`
 
-  <a href="https://gamex-gaming.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
-Weather web app to get the current weather state using the openweathermap API 🌐
