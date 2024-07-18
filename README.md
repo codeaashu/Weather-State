@@ -18,7 +18,7 @@
 
 <img src="./icons/theme.png" /> <hr>
 
-`Don't forget to leave a star ⭐`
+`Don't forget to starred this repository ⭐`
 
 </div>
 
